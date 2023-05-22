@@ -83,7 +83,7 @@ A motor with gear in a delta 3D printer is a combination of a stepper motor and 
 ### LCD :
 The LCD in a delta 3D printer is a display that shows important information and enables user interaction. It provides details about print progress, temperatures, settings, and allows users to navigate menus, adjust options, and control the printer.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
